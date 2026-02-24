@@ -7,4 +7,8 @@ Glaucoma is the leading cause of irreversible blindness worldwide, with a multif
 
 ### Full report
 
+https://mardedexo.github.io/Up-Down_Regulated_Genes_inGlaucoma/Project_Write Up.pdf
+
 ### Poster presentation
+
+https://mardedexo.github.io/Up-Down_Regulated_Genes_inGlaucoma/PosterPresentation.pdf
